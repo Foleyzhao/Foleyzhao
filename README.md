@@ -12,7 +12,7 @@
   - 🤔 &nbsp; Proficient in using Goland/Java/Python for system development.
   - 🎓 &nbsp; Graduated from the School of Computer Science of Hangzhou Dianzi University.
   - 🌱 &nbsp; Five years of experience in the cybersecurity industry.
-  - ✍️ &nbsp; The spirit of innovation is unrelenting.
+  - ✍️ &nbsp; Have a never-ending spirit of innovation.
 
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
@@ -34,4 +34,11 @@
       </a>
     </p>
   </span>
+  <span align="right">
+      <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foleyzhao&layout=compact&langs_count=6&bg_color=E6E6FA">
+      <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Foleyzhao&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2">
+  </span>  
 </div>
+
+<p> &nbsp;</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Foleyzhao&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
