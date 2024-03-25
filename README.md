@@ -33,7 +33,7 @@
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://happy.zj.cn/" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝HappyNewYear">
+        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=HappyNewYear">
       </a>
     </p>
   </span>
