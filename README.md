@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HappyNewYear
   <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/-Goland-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-Goland-F7DF1E?style=flat-square&logo=goland&logoColor=black" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
     <img src="https://komarev.com/ghpvc/?username=Foleyzhao" alt="1879" style="display: inline-block;">
@@ -17,6 +17,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
 <div> 
+   <span align="right">
+      <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foleyzhao&layout=compact&langs_count=6&bg_color=E6E6FA">
+      <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Foleyzhao&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2">
+  </span>  
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       <a href="https://github.com/Foleyzhao" target="_blank">
@@ -34,10 +38,6 @@
       </a>
     </p>
   </span>
-  <span align="right">
-      <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foleyzhao&layout=compact&langs_count=6&bg_color=E6E6FA">
-      <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Foleyzhao&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2">
-  </span>  
 </div>
 
 <p> &nbsp;</p>
