@@ -7,7 +7,8 @@
   </div>
 </h1>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+  
+  - 👜 &nbsp; 互联网技术总监 -> 独立开发者
   - 🤔 &nbsp; 熟练使用 Goland/Java/Python 开发系统。
   - 🎓 &nbsp; 毕业于杭州电子科技大学计算机学院。
   - 🌱 &nbsp; 多年网络安全行业工作经验。
