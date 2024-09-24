@@ -33,11 +33,6 @@
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://happy.zj.cn/" target="_blank">
-        <img src="https://img.shields.io/badge/bbs-white?style=social&logo=bbs&label=欢年的种树日常">
-      </a>
-    </p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://happy.zj.cn/" target="_blank">
         <img src="https://img.shields.io/badge/Blog-blue?style=social&label=HappyNewYear">
       </a>
     </p>
