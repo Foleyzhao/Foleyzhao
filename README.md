@@ -17,10 +17,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
 <div> 
-   <span align="right">
+<!--    <span align="right">
       <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foleyzhao&layout=compact&langs_count=6&bg_color=E6E6FA">
       <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Foleyzhao&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2">
-  </span>  
+  </span>   -->
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       <a href="https://github.com/Foleyzhao" target="_blank">
